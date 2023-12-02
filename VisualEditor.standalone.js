@@ -21630,8 +21630,8 @@ function BlocSelectorItem({
 const Button$5 = /* @__PURE__ */ createStyled("button", {
   target: "etyz0221"
 })({
-  name: "wubi9q",
-  styles: "background-color:transparent;border:none;display:flex;flex-direction:column;gap:1rem;font:inherit;font-weight:500;cursor:pointer;transition:.3s;&:hover, &:focus{outline:none;& img{transform:translateY(-5px);}}"
+  name: "ma27s5",
+  styles: "background-color:transparent;border:none;display:flex;flex-direction:column;gap:1rem;font:inherit;font-weight:500;cursor:pointer;transition:.3s;color:black;&:hover, &:focus{outline:none;& img{transform:translateY(-5px);}}"
 });
 const ButtonImage = /* @__PURE__ */ createStyled("div", {
   target: "etyz0220"
