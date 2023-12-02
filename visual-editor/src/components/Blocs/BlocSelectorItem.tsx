@@ -38,7 +38,6 @@ const Button = styled.button({
   transition: '.3s',
   '&:hover, &:focus': {
     outline: 'none',
-    color: 'var(--ve-primary)',
     '& img': {
       transform: 'translateY(-5px)',
     },
