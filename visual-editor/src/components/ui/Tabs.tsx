@@ -25,7 +25,6 @@ const TabsList = styled(RadixTabsList)({
 })
 
 const TabButton = styled(TabsTrigger)({
-  backgroundColor: 'var(--ve-hover)',
   borderRadius: 56,
   padding: '.6rem 1rem',
   border: 'none',

@@ -36,9 +36,9 @@ const Button = styled.button({
   fontWeight: 500,
   cursor: 'pointer',
   transition: '.3s',
+  color: 'black',
   '&:hover, &:focus': {
     outline: 'none',
-    color: 'var(--ve-primary)',
     '& img': {
       transform: 'translateY(-5px)',
     },
